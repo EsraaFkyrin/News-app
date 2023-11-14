@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">new-App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pick_category">Pick your category of interest</string>
+    <string name="news_app">News App</string>
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+</resources>
